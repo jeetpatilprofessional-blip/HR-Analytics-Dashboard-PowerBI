@@ -1,8 +1,12 @@
-# HR Analytics Dashboard – Power BI
+# HR Analytics Dashboard | Power BI
 
-Interactive HR analytics dashboard built using Power BI to explore workforce composition and attrition patterns.
+An interactive Power BI dashboard exploring workforce composition and employee attrition patterns.
 
-## Dashboard Metrics
+## Dashboard preview
+
+![HR Analytics Dashboard](HR%20Analytics%20Dashboard/HR%20Image.png)
+
+## Dashboard metrics
 - Total employees
 - Active employees
 - Attrition count and rate
@@ -22,15 +26,18 @@ Interactive HR analytics dashboard built using Power BI to explore workforce com
 - Microsoft Power BI
 - Microsoft Excel
 
-## Repository Structure
-- `Dashboard/` – Power BI report
-- `Dataset/` – source data
-- `Images/` – dashboard preview
+## Repository contents
+- `HR Analytics Dashboard/HR DASHBOARD ANALYTICS.pbix` — Power BI report.
+- `HR Analytics Dashboard/HR DATA_Excel.xlsx` — supporting dataset.
+- `HR Analytics Dashboard/HR Image.png` — dashboard preview.
+
+## How to view
+1. Download the `.pbix` file from the `HR Analytics Dashboard` folder.
+2. Open it using Power BI Desktop.
+3. If Power BI requests a data source, reconnect it to the included Excel workbook.
 
 ## Objective
-Explore HR workforce data and identify patterns that may inform workforce planning and employee retention decisions.
+Explore workforce data and identify patterns that may inform workforce planning and employee retention decisions.
 
-## Dashboard Preview
-Place a screenshot at `Images/HR-Analytics-Dashboard.png` to show it here.
-
-![Dashboard preview](Images/HR-Analytics-Dashboard.png)
+## Author
+Jeet Patil
